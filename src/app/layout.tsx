@@ -14,7 +14,7 @@ const spaceGrotesk = Space_Grotesk({
 
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://yourdomain.com"),
+  metadataBase: new URL("https://adebimpe.vercel.app/"),
   title: "Rukayat Abdulkareem — Frontend Developer",
   description:
     "Frontend developer based in Ibadan, Nigeria, building clean, responsive web interfaces with React and Next.js. Open to entry-level and internship roles.",
@@ -30,9 +30,9 @@ export const metadata: Metadata = {
     title: "Rukayat Abdulkareem — Frontend Developer",
     description:
       "Frontend developer based in Ibadan, Nigeria, building clean, responsive web interfaces with React and Next.js.",
-    url: "https://yourdomain.com",
+    url: "https://adebimpe.vercel.app/",
     siteName: "Rukayat Abdulkareem",
-    images: [{ url: "/profile.jpg", width: 1200, height: 630 }],
+    images: [{ url: "/og-image (1).png", width: 1200, height: 630 }],
     locale: "en_US",
     type: "website",
   },
