@@ -32,7 +32,7 @@ export const metadata: Metadata = {
       "Frontend developer based in Ibadan, Nigeria, building clean, responsive web interfaces with React and Next.js.",
     url: "https://adebimpe.vercel.app/",
     siteName: "Rukayat Abdulkareem",
-    images: [{ url: "/og-image (1).png", width: 1200, height: 630 }],
+    images: [{ url: "/og-image.png", width: 1200, height: 630 }],
     locale: "en_US",
     type: "website",
   },
